@@ -1,8 +1,10 @@
 ### Hi there 👋
 I'm a psychology student at the University of Buenos Aires. I'm particularly interested in the intersection of psychology, neuroscience, and data science.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusdiazb&layout=compact&exclude_repo=website&langs_count=6&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
+Feel free to contact me at agustindiazbarquinero@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusdiazb&layout=compact&exclude_repo=website&langs_count=6&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <!--
 **agusdiazb/agusdiazb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
