@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a psychology student at the University of Buenos Aires. I'm particularly interested in the intersection of psychology, neuroscience, and data science.
+I'm a undergraduate Research and Teaching Assistant at Universidad de Buenos Aires. I'm particularly interested in the intersection of psychology, neuroscience, and data science.
 
 Feel free to contact me at agustindiazbarquinero@gmail.com
 
