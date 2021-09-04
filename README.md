@@ -1,7 +1,9 @@
 ### Hi there 👋
-I'm a undergraduate Research and Teaching Assistant at Universidad de Buenos Aires. I'm particularly interested in the intersection of psychology, neuroscience, and data science.
+I'm a undergraduate Research and Teaching Assistant at Universidad de Buenos Aires. My research interests lie at the intersection of psychology, neuroscience, and data science.
 
-Feel free to contact me at agustindiazbarquinero@gmail.com
+🔭Currently working on emotion recognition systems using electrodermal activity
+
+📫 Feel free to contact me at agustindiazbarquinero@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusdiazb&layout=compact&exclude_repo=website&langs_count=6&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
  
