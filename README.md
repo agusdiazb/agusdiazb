@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a undergraduate Research and Teaching Assistant at Universidad de Buenos Aires. My research interests lie at the intersection of psychology, neuroscience, and data science.
+I'm a undergraduate Research and Teaching Assistant at Universidad de Buenos Aires. My research interests lie in the intersection of psychology, neuroscience, and data science.
 
 Currently working on emotion recognition systems using electrodermal activity 🔭
 
