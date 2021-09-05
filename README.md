@@ -7,7 +7,7 @@ Feel free to contact me at agustindiazbarquinero@gmail.com 📫
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusdiazb&layout=compact&exclude_repo=website&langs_count=6&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
 
-![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusdiazb)
+
 
 [Likedin profile](https://www.linkedin.com/in/agustindiazbarquinero)  [![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](https://www.linkedin.com/in/agustindiazbarquinero) 
 <!--
@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusdiazb)
 -->
