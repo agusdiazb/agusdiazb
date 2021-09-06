@@ -5,9 +5,7 @@ Currently working on emotion recognition systems using electrodermal activity �
 
 Feel free to contact me at agustindiazbarquinero@gmail.com 📫
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusdiazb&layout=compact&exclude_repo=website&langs_count=6&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
-
-[Likedin profile](https://www.linkedin.com/in/agustindiazbarquinero)[![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](https://www.linkedin.com/in/agustindiazbarquinero) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusdiazb&layout=compact&exclude_repo=website&langs_count=6&hide=scss)](https://github.com/anuraghazra/github-readme-stats)[Likedin profile](https://www.linkedin.com/in/agustindiazbarquinero)[![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](https://www.linkedin.com/in/agustindiazbarquinero) 
 
 <!--
 **agusdiazb/agusdiazb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
