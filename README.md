@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Agustín. I'm an undergraduate Research and Teaching Assistant at Universidad de Buenos Aires. My research interests lie in the intersection of psychology, neuroscience and data science.
+I'm Agustín. I'm an undergraduate Teaching and Research Assistant at Universidad de Buenos Aires. My research interests lie in the intersection of psychology, neuroscience and data science.
 
 Currently working on emotion recognition systems using electrodermal activity 🔭
 
