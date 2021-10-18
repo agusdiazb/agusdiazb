@@ -8,6 +8,7 @@ Feel free to contact me at agustindiazbarquinero@gmail.com 📫
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusdiazb&layout=compact&exclude_repo=website&langs_count=6&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linkedin profile](https://user-images.githubusercontent.com/43391630/135490630-9c1bb137-2663-488a-96e5-919252be9b09.png)](https://www.linkedin.com/in/agustindiazbarquinero)
+
 &emsp;[Likedin profile] (https://www.linkedin.com/in/agustindiazbarquinero)  <br>
 
 
