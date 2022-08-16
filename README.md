@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm Agustín. I'm an undergraduate Teaching and Research Assistant at Universidad de Buenos Aires. My research interests lie in the intersection of psychology, neuroscience and data science.
 
+Currently working on a systematic review and meta-analysis automatic emotion recognition models.
 
 Feel free to contact me at agustindiazbarquinero@gmail.com 📫
  
