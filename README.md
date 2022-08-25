@@ -5,7 +5,6 @@ Currently working on a systematic review and meta-analysis about emotion recogni
 
 Feel free to contact me at agustindiazbarquinero@gmail.com 📫
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusdiazb&layout=compact&exclude_repo=website&langs_count=6&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusdiazb)
 
@@ -25,4 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusdiazb)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusdiazb&layout=compact&exclude_repo=website&langs_count=6&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
 -->
