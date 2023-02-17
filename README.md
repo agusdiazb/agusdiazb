@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Agustín. I'm a psychologist and data analyst 😄
 
-Currently working an undergraduate Teaching and Research Assistant at Universidad de Buenos Aires.
+Currently working as an undergraduate Teaching and Research Assistant at Universidad de Buenos Aires.
 
 During my psychology degree, my interest in scientific psychology and my experience as a research assistant made me look into the world of data and programming. Now, after working in the scientific academy for so long, I want to apply my knowledge in new and challenging fields.
 
