@@ -3,7 +3,7 @@ I'm Agustín. I'm a psychologist and data analyst 😄
 
 Currently working as an undergraduate Teaching and Research Assistant at Universidad de Buenos Aires.
 
-During my psychology degree, my interest in scientific psychology and my experience as a research assistant made me look into the world of data and programming. Now, after working in the scientific academy for so long, I want to apply my knowledge in new and challenging fields.
+As a data analyst, I bring a unique perspective to the field thanks to my extensive experience in psychology research. I have a deep understanding of research methodology, data collection and data analysis which enables me to deliver high-quality insights and recommendations based on solid data.
 
 
 Currently working on a systematic review and meta-analysis about emotion recognition models (Affective computing)
