@@ -9,7 +9,15 @@ As a data analyst, I bring a unique perspective to the field thanks to my extens
 Currently working on a systematic review and meta-analysis about emotion recognition models (Affective computing)
 
 Feel free to contact me at agustindiazbarquinero@gmail.com 📫
- 
+
+##### SOFTWARE SKILLS
+Programming Languages: Python
+Databases: PostgreSQL
+Data Science Frameworks: NumPy, pandas
+Visualization: PowerBI, Seaborn, Matplotlib
+Data engineering: Apache Airflow
+Version control tools: GIT and Github
+Agile: SCRUM, Jira
 
 ![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusdiazb)
 
