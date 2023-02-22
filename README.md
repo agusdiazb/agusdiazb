@@ -11,8 +11,8 @@ Currently working on a systematic review and meta-analysis about emotion recogni
 Feel free to contact me at agustindiazbarquinero@gmail.com 📫
 
 ##### SOFTWARE SKILLS
-Programming Languages: Python
-Databases: PostgreSQL
+Programming Languages: Python //
+Databases: PostgreSQL //
 Data Science Frameworks: NumPy, pandas
 Visualization: PowerBI, Seaborn, Matplotlib
 Data engineering: Apache Airflow
