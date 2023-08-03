@@ -7,7 +7,7 @@ As a data analyst, I bring a unique perspective to the field thanks to my extens
 
 During my time as a researcher I worked in a systematic review and meta-analysis about emotion recognition models (a subfield of AFFECTIVE COMPUTING, a novel field that seeks to include emotions into the Human Computer Interaction (HCI).
 
-Feel free to contact me at agustindiazbarquinero@gmail.com 📫 or through my [![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](https://www.linkedin.com/in/agustindiazbarquinero) [Likedin profile](https://www.linkedin.com/in/agustindiazbarquinero)
+Feel free to contact me at agustindiazbarquinero@gmail.com 📫 or through my [Likedin profile](https://www.linkedin.com/in/agustindiazbarquinero)[![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](https://www.linkedin.com/in/agustindiazbarquinero)
 
 ##### SOFTWARE SKILLS
 Programming Languages: Python
