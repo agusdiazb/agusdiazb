@@ -5,7 +5,7 @@ I'm Agustín. I'm a psychologist and data analyst 😄
 As a data analyst, I bring a unique perspective to the field thanks to my extensive experience in psychology research. I have a deep understanding of research methodology, data collection and data analysis which enables me to deliver high-quality insights and recommendations based on solid data.
 
 
-During my time as a researcher I worked in a systematic review and meta-analysis about emotion recognition modeLS (a subfield of AFFECTIVE COMPUTING, a novel field that seeks to include emotions into the Human Computer Interaction (HCI).
+During my time as a researcher I worked in a systematic review and meta-analysis about emotion recognition models (a subfield of AFFECTIVE COMPUTING, a novel field that seeks to include emotions into the Human Computer Interaction (HCI).
 
 Feel free to contact me at agustindiazbarquinero@gmail.com 📫
 
