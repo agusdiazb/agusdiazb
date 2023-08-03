@@ -26,6 +26,8 @@ Agile: SCRUM, Jira
 
 ![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusdiazb)
 
+[Likedin profile](https://www.linkedin.com/in/agustindiazbarquinero)[![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](https://www.linkedin.com/in/agustindiazbarquinero)
+
 
 <!--
 **agusdiazb/agusdiazb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
