@@ -7,7 +7,7 @@ As a data analyst, I bring a unique perspective to the field thanks to my extens
 
 During my time as a researcher I worked in a systematic review and meta-analysis about emotion recognition models (a subfield of AFFECTIVE COMPUTING, a novel field that seeks to include emotions into the Human Computer Interaction (HCI).
 
-Feel free to contact me at agustindiazbarquinero@gmail.com 📫
+Feel free to contact me at agustindiazbarquinero@gmail.com 📫 or through my LinkedIn [![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](https://www.linkedin.com/in/agustindiazbarquinero) [Likedin profile](https://www.linkedin.com/in/agustindiazbarquinero)
 
 ##### SOFTWARE SKILLS
 Programming Languages: Python
@@ -26,7 +26,6 @@ Agile: SCRUM, Jira
 
 ![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusdiazb)
 
-[![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](https://www.linkedin.com/in/agustindiazbarquinero) [Likedin profile](https://www.linkedin.com/in/agustindiazbarquinero)
 
 <!--
 **agusdiazb/agusdiazb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
