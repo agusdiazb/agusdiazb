@@ -1,7 +1,6 @@
 ### Hi there 👋
 I'm Agustín. I'm a psychologist and data analyst 😄
 
-Currently working as data analyst.
 
 As a data analyst, I bring a unique perspective to the field thanks to my extensive experience in psychology research. I have a deep understanding of research methodology, data collection and data analysis which enables me to deliver high-quality insights and recommendations based on solid data.
 
