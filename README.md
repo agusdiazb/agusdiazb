@@ -1,28 +1,9 @@
 ### Hi there 👋
-I'm Agustín. I'm a psychologist and data analyst 😄
+I'm Agustín. I'm a psychologist turned data analyst, passionate about transforming data into actionable insights. 
 
-
-As a data analyst, I bring a unique perspective to the field thanks to my extensive experience in psychology research. I have a deep understanding of research methodology, data collection and data analysis which enables me to deliver high-quality insights and recommendations based on solid data.
-
-
-During my time as a researcher I worked in a systematic review and meta-analysis about emotion recognition models (a subfield of AFFECTIVE COMPUTING, a novel field that seeks to include emotions into the Human Computer Interaction (HCI).
 
 Feel free to contact me at agustindiazbarquinero@gmail.com 📫 or through my [Likedin profile](https://www.linkedin.com/in/agustindiazbarquinero)[![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](https://www.linkedin.com/in/agustindiazbarquinero)
 
-##### SOFTWARE SKILLS
-Programming Languages: Python
-
-Databases: PostgreSQL
-
-Data Science Frameworks: NumPy, pandas
-
-Visualization: PowerBI, Seaborn, Matplotlib
-
-Data engineering: Apache Airflow
-
-Version control tools: GIT and Github
-
-Agile: SCRUM, Jira
 
 ![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusdiazb)
 
